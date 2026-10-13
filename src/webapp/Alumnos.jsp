@@ -127,7 +127,7 @@
     function nuevoAlumno()
     {
         document.getElementById("formAlumno").reset();
-        document.getElementById("id").value = "";
+        document.getElementById("id").value = "0";
         document.getElementById("accion").value = "save";
         document.getElementById("alumnoModalLabel").textContent = "Agregar alumno";
         document.getElementById("btnGuardar").textContent = "Guardar alumno";
