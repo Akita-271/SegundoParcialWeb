@@ -62,6 +62,7 @@
                             <version>1.18.48</version>
                         </path>
                     </annotationProcessorPaths>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
                 </configuration>
             </plugin>
         </plugins>
